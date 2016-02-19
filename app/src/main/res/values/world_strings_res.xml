@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="world_titles">
+        <item>一个人去玩耍</item>
+        <item>失恋的人别宅</item>
+        <item>故地重游都是泪</item>
+    </string-array>
+
+    <string-array name="world_captions">
+        <item>一颗糖搞定熊孩子</item>
+        <item>我背的是太度</item>
+        <item>我背的是太度</item>
+        <item>我背的是太度</item>
+
+        <item>一颗糖搞定熊孩子</item>
+        <item>我背的是太度</item>
+        <item>我背的是太度</item>
+        <item>我背的是太度</item>
+
+        <item>一颗糖搞定熊孩子</item>
+        <item>我背的是太度</item>
+        <item>我背的是太度</item>
+        <item>我背的是太度</item>
+    </string-array>
+
+</resources>

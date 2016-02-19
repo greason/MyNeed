@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/viewpager_height"
+        android:id="@+id/viewpager_layout"
+        android:background="#6453"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/worker_viewpager_meishi"
+            android:text="美食家"
+            android:gravity="center"
+            android:textColor="@color/red"
+            android:background="@android:color/transparent"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/worker_viewpager_shenghuo"
+            android:text="生活家"
+            android:gravity="center"
+            android:background="@android:color/transparent"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/worker_viewpager_lvxing"
+            android:text="旅行家"
+            android:gravity="center"
+            android:background="@android:color/transparent"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/worker_viewpager_meiren"
+            android:text="美人计"
+            android:gravity="center"
+            android:background="@android:color/transparent"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/viewpager_layout"
+        android:layout_marginBottom="@dimen/viewpager_height">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/worker_viewpager"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+        </android.support.v4.view.ViewPager>
+
+    </LinearLayout>
+
+</RelativeLayout>

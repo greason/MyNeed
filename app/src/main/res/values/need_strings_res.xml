@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="need_titles">
+        <item>[中国台湾]雪之恋麻辣薯香芋味（三包入）</item>
+        <item>[中国台湾]雪之恋麻辣薯香芋味（三包入）</item>
+        <item>[中国台湾]雪之恋麻辣薯香芋味（三包入）</item>
+        <item>[中国台湾]雪之恋麻辣薯香芋味（三包入）</item>
+        <item>[中国台湾]雪之恋麻辣薯香芋味（三包入）</item>
+        <item>[中国台湾]雪之恋麻辣薯香芋味（三包入）</item>
+    </string-array>
+
+    <string-array name="need_names">
+        <item>顾俊</item>
+        <item>顾俊</item>
+        <item>顾俊</item>
+        <item>顾俊</item>
+        <item>顾俊</item>
+        <item>顾俊</item>
+    </string-array>
+
+    <string-array name="need_captions">
+        <item>所有零食里我最喜欢的一个，口感有点想南方的糯米</item>
+        <item>所有零食里我最喜欢的一个，口感有点想南方的糯米</item>
+        <item>所有零食里我最喜欢的一个，口感有点想南方的糯米</item>
+        <item>所有零食里我最喜欢的一个，口感有点想南方的糯米</item>
+        <item>所有零食里我最喜欢的一个，口感有点想南方的糯米</item>
+        <item>所有零食里我最喜欢的一个，口感有点想南方的糯米</item>
+    </string-array>
+
+</resources>

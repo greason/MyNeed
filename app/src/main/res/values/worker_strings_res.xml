@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="worker_names">
+        <item>Need赵晓恩</item>
+        <item>Need赵晓恩</item>
+        <item>Need赵晓恩</item>
+        <item>Need赵晓恩</item>
+        <item>Need赵晓恩</item>
+    </string-array>
+
+    <string-array name="worker_captions">
+        <item>Need官方代言</item>
+        <item>Need官方代言</item>
+        <item>Need官方代言</item>
+        <item>Need官方代言</item>
+        <item>Need官方代言</item>
+    </string-array>
+</resources>
